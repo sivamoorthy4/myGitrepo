@@ -1,12 +1,18 @@
 ##This is my java file
 
 
-public static void main (String[] args) {
+
+class Main() {
+
+
+	public static void main (String[] args) {
 
 	
-	sysytem.out.println("This is my JAVA File");
+		sysytem.out.println("This is my JAVA File");
 
 
+
+	}
 
 }
 
